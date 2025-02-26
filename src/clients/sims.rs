@@ -74,7 +74,7 @@ pub struct TimetableDirection {
     name: String,
 }
 
-#[derive(Clone, Debug)]
+#[derive(Clone, Debug, Default)]
 pub struct Client {
     client: ReqwestClient,
 }

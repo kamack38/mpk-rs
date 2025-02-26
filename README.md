@@ -6,7 +6,7 @@ An api for getting real-time bus data.
 
 - Wrocław:
   - [x] [SiMS](https://mapa.dla.sims.pl/)
-  - [ ] [Wrocław MPK](https://www.wroclaw.pl/open-data/dataset/lokalizacjapojazdowkomunikacjimiejskiejnatrasie_data)
+  - [x] [Wrocław MPK](https://www.wroclaw.pl/open-data/dataset/lokalizacjapojazdowkomunikacjimiejskiejnatrasie_data)
 
 ## Examples
 
